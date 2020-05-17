@@ -55,7 +55,7 @@ messages:
       name: Account issue
       message: |-
         *Thank you for your report!*
-        However, this issue is {color:#FF5722}*Invalid*{color}.
+        However, this issue is {color:#FF5722}*Invalid*{color}.fhfhfhfhfhfhfhfhfhfhfhfhfhfhfhfhfhfhfhfhfhfhfhfhfhfhfhfhfhfhfhfhfh
 
         This is an account issue. We do not have the tools to help you on this tracker.
         Please contact the *[Customer Support|https://help.minecraft.net/hc/en-us/requests/new]*.
