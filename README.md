@@ -2,9 +2,11 @@
 
 This web application is developed by Mojang's Mojira Team, the bug tracker helpers and moderators. "Mojira Helper Message Application" aggregates & serves copy + paste messages for use in comments on the bug tracker.
 
+only use if you are helper or moderator
+
 ## How to use the tool
 
-We use GitHub pages to dynamically deploy the web app after something was changed in the repository. You can get to the live version of this repository [here](https://mojira.github.io/helper-messages).
+We use GitHub pages to dynamically deploy the web app after something was changed in the repository. You can get to the live version of this repository [here](https://matthew-mojira.github.io/helper-messages).
 
 ## Contribute
 
